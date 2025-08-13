@@ -1,0 +1,7 @@
+cred.json
+
+
+
+git remote add origin https://mihailmarenkov1993@github.com/mihailmarenkov1993/test.git
+
+git push -u origin master
